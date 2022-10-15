@@ -1,4 +1,4 @@
-package ru.mams.spring.boot_security.PP_312_3;
+package ru.mams.spring.boot_security.pp_314;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
